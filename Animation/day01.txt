@@ -1,0 +1,16 @@
+
+
+##애니메이션 리타게팅(설명)
+
+https://docs.unrealengine.com/latest/KOR/Engine/Animation/Persona/BasePoseManager/index.html
+
+UE4 캐릭터는 기본적으로 A포즈
+T포즈 캐릭터는 A포즈로 리타게팅을 해줘야되기 때문에
+자잘하게 포즈를 바꿔줘야 됨 (노가다)
+** 바꿔주지 않으면 애니메이션이 꼬인다.
+
+
+
+##애니메이션 리타게팅 다른 스켈레톤(UE4_Sk = Mixamo_SK)
+
+https://docs.unrealengine.com/latest/INT/Engine/Animation/RetargetingDifferentSkeletons/
