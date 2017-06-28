@@ -14,3 +14,9 @@ T포즈 캐릭터는 A포즈로 리타게팅을 해줘야되기 때문에
 ##애니메이션 리타게팅 다른 스켈레톤(UE4_Sk = Mixamo_SK)
 
 https://docs.unrealengine.com/latest/INT/Engine/Animation/RetargetingDifferentSkeletons/
+###믹사모 캐릭터 리타게팅, UE4_기본 애니메이션 블랜드스페이스를 복제후 적용
+
+
+##Create Drag and Drop UI
+
+https://docs.unrealengine.com/latest/INT/Engine/UMG/HowTo/DragAndDrop/ProjectSetup/index.html
